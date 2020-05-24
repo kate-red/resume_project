@@ -1,0 +1,4401 @@
+[
+  {
+    "id":  1,
+    "Job title": "Sales Manager",
+    "Gender": "male",
+    "Age": 40,
+    "Location": "Russia, Moscow",
+    "Desired wage": 120000,
+    "Area": "Raw materials",
+    "Total work experience (years)": 17,
+    "Work experience": [
+      {
+        "Company name": "Saint-Gobain Perfomance Plastics (France) LLC",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2012,
+          2020
+        ],
+        "Job position": "Technical Sales Manager Russia (Sales Manager)",
+        "Responsibilities": [
+          "Working with existing clients -– collecting and placement of the orders placed and searching for new ones",
+          "Finding new customers in Automotive and Oil & Gas industry",
+          "Development of new valve production solutions",
+          "Host Customers at Fairs, Events, Meetings"
+        ]
+      },
+      {
+        "Company name": "Ideal Standard International BV BA (Belgium) Representative Office",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2009,
+          2012
+        ],
+        "Job position": "Sales & Marketing Regional Manager",
+        "Responsibilities": [
+          "Generating sales volume through assigned sub-distributors",
+          "Managing process of searching of new clients",
+          "Driving the sales process of company products in Central Russia Region",
+          "Setting up and control trails of new existing product, reporting on the results"
+          ]
+      },
+      {
+        "Company name": "3M Russia (USA) LLC",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2003,
+          2009
+        ],
+        "Job position": "Business Development Manager",
+        "Responsibilities": [
+          "Test status follow-up; lead OEMs responsibility tests",
+          "Corrective action plan development and follow-up",
+          "Support Launch phase, representing Engineering Function",
+          "Co-ordinate design actions required for specific Russian requirements or to support Localization plan"
+          ]
+      },
+      {
+        "Company name": "Gustavsberg (Sweden) Villeroy & Boch Group Representative Office",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2000,
+          2003
+        ],
+        "Job position": "Territorial sales manager",
+        "Responsibilities": [
+          "Supervised a group of sanitary ware key-account dealers in terms of retail and wholesale activities",
+          "Controlled the whole Moscow retail situation",
+          "Increased a total turnover of “Starik Hottabuch” shops network from 450 000 to 950 000 in year 2001-2002",
+          "Made the Gustavsberg brands preferable in middle and up-middle segment"
+          ]
+      }
+    ],
+    "Education": [
+      {
+        "University": "Moscow State Aircraft Technology University",
+        "Education city": "Moscow",
+        "Major": "Tests of aircraft,ergonomics, MBA",
+        "Study period": [
+          1995,
+          1999
+        ],
+        "Degree": "Bachelor"
+      }
+    ],
+    "Language proficiency": {
+      "Russian": "Native",
+      "English": "Advanced"
+    },
+    "Additional Courses": [
+      {
+        "Course name": "Negotiation skills Training",
+        "Educational institution": "3M Russia, MBA",
+        "Education per": 2008
+      },
+      {
+        "Course name": "Customer Focus Selling Training",
+        "Educational institution": "3M Russia, MBA",
+        "Educational per": 2007
+      }
+    ],
+    "Skills": [
+      "Sales Forecasting",
+      "Sales Management",
+      "Sales Planning",
+      "Sales Skills"
+    ]
+  },
+  {
+    "id":  2,
+    "Job title": "Sales Manager",
+    "Gender": "male",
+    "Age": 31,
+    "Location": "Russia, Moscow",
+    "Desired wage": 80000,
+    "Area": "Tourism",
+    "Total work experience (years)": 8,
+    "Work experience": [
+      {
+        "Company name": "Holiday Inn Moscow Lesnaya",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2019,
+          2020
+        ],
+        "Job position": "Senior Corporate Sales Manager",
+        "Responsibilities": [
+          "Corporate sales and account management"
+        ]
+      },
+      {
+        "Company name": "Radisson Hotel Group",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2018,
+          2019
+        ],
+        "Job position": "Area Sales Manager",
+        "Responsibilities": [
+          "Corporate sales area office, Eastern Europe and Russia"
+          ]
+      },
+      {
+        "Company name": "Radisson Hotel, Rosa Khutor",
+        "Company location": "Russia, Sochi",
+        "Period of work": [
+          2014,
+          2017
+        ],
+        "Job position": "Senior Sales Manager",
+        "Responsibilities": [
+          "MICE",
+          "Corporate sales",
+          "key accounts management"
+          ]
+      },
+      {
+        "Company name": "Amaks Safar Hotel",
+        "Company location": "Russia, Kazan",
+        "Period of work": [
+          2011,
+          2014
+        ],
+        "Job position": "Sales Manager",
+        "Responsibilities": [
+          "MICE",
+          "Groups sales and account management"
+          ]
+      }
+    ],
+    "Education": [
+      {
+        "University": "Institute of Economics, Management and Law",
+        "Education city": "Kazan",
+        "Major": "Management, Hotels and Tourism",
+        "Study period": [
+          2007,
+          2011
+        ],
+        "Degree": "Bachelor"
+      }
+    ],
+    "Language proficiency": {
+      "Russian": "Native",
+      "English": "Advanced"
+    },
+    "Additional Courses": [
+      {
+        "Course name": "Effective Sales Negotiations",
+        "Educational institution": "IHG Way of Sales",
+        "Educational per": 2019
+      },
+      {
+        "Course name": "Sales Essentials",
+        "Educational institution": "Radisson Hotel Group",
+        "Educational per": 2016
+      }
+    ],
+    "Skills": [
+      "Sales Forecasting",
+      "Sales Management",
+      "Sales Planning",
+      "Sales Skills",
+      "MS Internet",
+      "Negotiation skills",
+      "Presentation skills",
+      "Project management",
+      "Key Account Management"
+    ]
+  },
+  {
+    "id":  3,
+    "Job title": "Sales Manager",
+    "Gender": "female",
+    "Age": 31,
+    "Location": "Russia, Moscow",
+    "Desired wage": 100000,
+    "Area": "IT",
+    "Total work experience (years)": 13,
+    "Work experience": [
+      {
+        "Company name": "Center Сomputer Accounting",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2011,
+          2020
+        ],
+        "Job position": "Sales Manager",
+        "Responsibilities": [
+          "dealing with partners",
+          "attracting customers, arranging meetings, maintaining long-term relationships",
+          "customer service",
+          "prospecting for new business within assigned territory",
+          "managing accounts",
+          "organizing seminars and courses, promotional events"
+        ]
+      },
+      {
+        "Company name": "Guard (FMSG)",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2009,
+          2010
+        ],
+        "Job position": "Sales Representative",
+        "Responsibilities": [
+          "attracting customers",
+          "acceptancing applications from buyers",
+          "monitoring accounts receivable",
+          "implementing sales plans in fixed territory",
+          "analysis of the activity of competitors"
+          ]
+      },
+      {
+        "Company name": "WIMM-BILL-DANN",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2006,
+          2009
+        ],
+        "Job position": "Merchandiser",
+        "Responsibilities": [
+          "Active search for new customers",
+          "Formation of a customer base",
+          "Accounts receivable control",
+          "Analysis of the activity of competitors",
+          "Controlling the availability of products in retail outlets"
+          ]
+      }
+    ],
+    "Education": [
+      {
+        "University": "Financial University Under the government of the Russian Federation",
+        "Education city": "Voronezh",
+        "Major": "Management",
+        "Study period": [
+          2009,
+          2012
+        ],
+        "Degree": "Bachelor"
+      }
+    ],
+    "Language proficiency": {
+      "Russian": "Native",
+      "English": "Intermediate"
+    },
+    "Additional Courses": [
+      {
+        "Course name": "Foreign language",
+        "Educational institution": "Foreign language school LINGUIST",
+        "Educational per": 2015
+      }
+    ],
+    "Skills": [
+      "C1",
+      "Sales Management",
+      "Marketing Analysis",
+      "Sales Planning",
+      "Focused",
+      "Proactive",
+      "Customer service",
+      "Key Account Management"
+    ]
+  },
+  {
+    "id":  4,
+    "Job title": "Sales Manager",
+    "Gender": "female",
+    "Age": 23,
+    "Location": "Russia, Moscow",
+    "Desired wage": 100000,
+    "Area": "Marketing",
+    "Total work experience (years)": 4,
+    "Work experience": [
+      {
+        "Company name": "SP Group",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2018,
+          2020
+        ],
+        "Job position": "Project Manager",
+        "Responsibilities": [
+          "KPI management",
+          "Clients relations"
+        ]
+      },
+      {
+        "Company name": "SP Group",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2016,
+          2018
+        ],
+        "Job position": "Sales Manager",
+        "Responsibilities": [
+          "attracting customers",
+          "B2B sales"
+          ]
+      },
+      {
+        "Company name": "Raivol Accounting Group",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2015,
+          2016
+        ],
+        "Job position": "PR manager",
+        "Responsibilities": [
+          "Active search for new customers",
+          "Formation of a customer base",
+          "Accounts receivable control",
+          "Analysis of the activity of competitors"
+          ]
+      }
+    ],
+    "Education": [
+      {
+        "University": "Plekhanov Russian University of Economics",
+        "Education city": "Moscow",
+        "Major": "Marketing and PR",
+        "Study period": [
+          2018,
+          2014
+        ],
+        "Degree": "Bachelor"
+      }
+    ],
+    "Language proficiency": {
+      "Russian": "Native",
+      "English": "Advanced",
+      "German": "Elementary"
+    },
+    "Additional Courses": [
+      {
+        "Course name": "Google Digital Garage",
+        "Educational institution": "Google, Digital Marketing",
+        "Educational per": 2020
+      },
+      {
+        "Course name": "Business English course",
+        "Educational institution": "Kaplan International School, International marketing and PR",
+        "Educational per": 2014
+      }
+    ],
+    "Skills": [
+      "PR",
+      "Project Management",
+      "Digital Marketing",
+      "Sales Planning",
+      "B2B"
+    ]
+  },
+  {
+    "id":  5,
+    "Job title": "Sales Manager",
+    "Gender": "male",
+    "Age": 25,
+    "Location": "Russia, Moscow",
+    "Desired wage": 70000,
+    "Area": "Tourism",
+    "Total work experience (years)": 3,
+    "Work experience": [
+      {
+        "Company name": "RateHawk.com",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2019,
+          2020
+        ],
+        "Job position": "B2B Manager",
+        "Responsibilities": [
+          "KPI management",
+          "Clients relations",
+          "B2B sales"
+        ]
+      },
+      {
+        "Company name": "Ostrovok.ru",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2018,
+          2019
+        ],
+        "Job position": "Sales Manager",
+        "Responsibilities": [
+          "customers help",
+          "customer relations"
+          ]
+      },
+      {
+        "Company name": "Native Speakers Club",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2017,
+          2018
+        ],
+        "Job position": "Sales Manager",
+        "Responsibilities": [
+          "Active search for new customers",
+          "Formation of a customer base"
+          ]
+      },
+       {
+        "Company name": "BARBER CORNER",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2017,
+          2017
+        ],
+        "Job position": "Assistant Manager",
+        "Responsibilities": [
+          "Active search for new customers",
+          "HR management",
+          "B2B relations"
+          ]
+      }
+    ],
+    "Education": [
+      {
+        "University": "UNIVERSITY OF WOLVERHAMPTON",
+        "Education city": "Moscow",
+        "Major": "Social Sciences",
+        "Study period": [
+          2012,
+          2016
+        ],
+        "Degree": "Bachelor"
+      }
+    ],
+    "Language proficiency": {
+      "Russian": "Native",
+      "English": "Advanced"
+    },
+    "Additional Courses": "Not stated",
+    "Skills": [
+      "Analytical skills",
+      "Organization skills",
+      "Time management",
+      "Customer Service",
+      "Team work"
+    ]
+  },
+    {
+    "id":  6,
+    "Job title": "Sales Manager",
+    "Gender": "female",
+    "Age": 29,
+    "Location": "Russia, Moscow",
+    "Desired wage": 130000,
+    "Area": "Marketing",
+    "Total work experience (years)": 8,
+    "Work experience": [
+      {
+        "Company name": "Firmenich LLC",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2013,
+          2020
+        ],
+        "Job position": "Customer care & logistic coordinator / Commercial Assistant of GM",
+        "Responsibilities": [
+          "A full range of client servicing over telephone and e-mail correspondence",
+          "Conducting deliveries accurate and timely",
+          "Order placing",
+          "Demand planning",
+          "Work in SAP (including reports)",
+          "Marketing presentation (pro-active) for a key customer"
+        ]
+      },
+      {
+        "Company name": "LLC CB Uniastrum Bank",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2012,
+          2013
+        ],
+        "Job position": "Senior Sales Manager",
+        "Responsibilities": [
+          "attracting customers",
+          "contacting with buyers",
+          "monitoring accounts receivable",
+          "implementing sales plans"
+          ]
+      },
+      {
+        "Company name": "Сlosed joint stock company Raiffeisenbank",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2012,
+          2012
+        ],
+        "Job position": "Senior Direct Sales Specialist",
+        "Responsibilities": [
+          "sell consumer products and credit cards",
+          "product presentations"
+          ]
+      }
+    ],
+    "Education": [
+      {
+        "University": "Moscow State Linguistic University",
+        "Education city": "Moscow",
+        "Major": "French language teacher",
+        "Study period": [
+          2012,
+          2008
+        ],
+        "Degree": "Bachelor"
+      }
+    ],
+    "Language proficiency": {
+      "Russian": "Native",
+      "English": "Advanced",
+      "French": "Advanced"
+    },
+    "Additional Courses": [
+      {
+        "Course name": "Business English",
+        "Educational institution": "Language Centre Start2Study.ru",
+        "Educational per": 2017
+      }
+    ],
+    "Skills": [
+      "Negotiation skills",
+      "C1",
+      "Analytical skills",
+      "Organization skills",
+      "Time management",
+      "Customer Service",
+      "Team work"
+    ]
+  },
+      {
+    "id":  7,
+    "Job title": "Sales Manager",
+    "Gender": "male",
+    "Age": 29,
+    "Location": "Russia, Moscow",
+    "Desired wage": 80000,
+    "Area": "IT",
+    "Total work experience (years)": 3,
+    "Work experience": [
+      {
+        "Company name": "SilverBulleters, LLC",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2018,
+          2020
+        ],
+        "Job position": "Corporate sales department head",
+        "Responsibilities": [
+          "Formation of commercial Department",
+          "Attracting new customers to the company",
+          "Negotiating with the top officials of the companies",
+          "Conclusion of cooperation agreement",
+          "Control and minimization of accounts receivable",
+          "Formation of reporting on the conducted transactions of purchase and sale"
+        ]
+      },
+      {
+        "Company name": "Carlink",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2017,
+          2018
+        ],
+        "Job position": "Corporate sales department head",
+        "Responsibilities": [
+          "Formation of commercial Department",
+          "Attracting new customers to the company",
+          "Negotiating with the top officials of the companies",
+          "Conclusion of cooperation agreement",
+          "Control and minimization of accounts receivable",
+          "Formation of reporting on the conducted transactions of purchase and sale"
+          ]
+      }
+    ],
+    "Education": [
+      {
+        "University": "Moscow Polytechnic University",
+        "Education city": "Moscow",
+        "Major": "Engineer",
+        "Study period": [
+          2012,
+          2008
+        ],
+        "Degree": "Bachelor"
+      }
+    ],
+    "Language proficiency": {
+      "Russian": "Native",
+      "English": "Upper Intermediate"
+    },
+    "Additional Courses": "Not stated",
+    "Skills": [
+      "Customer service",
+      "Negotiation skills",
+      "Sales skills"
+    ]
+  },
+  {
+    "id":  8,
+    "Job title": "Sales Manager",
+    "Gender": "male",
+    "Age": 35,
+    "Location": "Russia, Moscow",
+    "Desired wage": 170000,
+    "Area": "IT",
+    "Total work experience (years)": 7,
+    "Work experience": [
+      {
+        "Company name": "Bentley Systems Russia & CIS",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2013,
+          2020
+        ],
+        "Job position": "Key account manager",
+        "Responsibilities": [
+          "prospecting for a new business to sell software and services;",
+          "expansion the existing portfolio of current customers",
+          "negotiations with the top management of companies (C-level)",
+          "creation the long-term relationships with the customers and partners",
+          "direct and channel partner deals, support the partner opportunities",
+          "local and international teamwork, meetings and task planning"
+        ]
+      }
+    ],
+    "Education": [
+      {
+        "University": "Novosibirsk State Technical University",
+        "Education city": "Novosibirsk",
+        "Major": "Informatics and Computer Engineering",
+        "Study period": [
+          2003,
+          2007
+        ],
+        "Degree": "Bachelor"
+      }
+    ],
+    "Language proficiency": {
+      "Russian": "Native",
+      "English": "Advanced"
+    },
+    "Additional Courses": "Not stated",
+    "Skills": [
+      "Negotiation skills",
+      "B2B",
+      "Direct sales",
+      "Sales planning",
+      "Time management",
+      "Sales analysis",
+      "Team work"
+    ]
+  },
+  {
+    "id":  9,
+    "Job title": "Sales Manager",
+    "Gender": "female",
+    "Age": 35,
+    "Location": "Russia, Moscow",
+    "Desired wage": 120000,
+    "Area": "Consulting",
+    "Total work experience (years)": 16,
+    "Work experience": [
+      {
+        "Company name": "Intalev consulting company",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2013,
+          2014
+        ],
+        "Job position": "Key account manager",
+        "Responsibilities": [
+          "establish and support active direct sales of complex projects",
+          "create and oversee customer database",
+          "managing in the CRM",
+          "preparing commercial offers"
+        ]
+      },
+      {
+        "Company name": "Аudit Consulting Company FinAudit",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2006,
+          2013
+        ],
+        "Job position": "bigness development manager",
+        "Responsibilities": [
+          "sales management",
+          "business development",
+          "HR functions",
+          "establish control over procedures performed with audit clients"
+        ]
+      },
+      {
+        "Company name": "Audit and consalting company SV Audit",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2003,
+          2006
+        ],
+        "Job position": "sales manager",
+        "Responsibilities": [
+          "Attraction of corporate clients",
+          "promotional support of new consulting services",
+          "marketing and customer research",
+          "analysis of competitors"
+        ]
+      }
+    ],
+    "Education": [
+      {
+        "University": "Moscow State University",
+        "Education city": "Moscow",
+        "Major": "Economics and Finance",
+        "Study period": [
+          2002,
+          2006
+        ],
+        "Degree": "Bachelor"
+      }
+    ],
+    "Language proficiency": {
+      "Russian": "Native",
+      "English": "Advanced",
+      "German": "Beginner"
+    },
+    "Additional Courses": "Not stated",
+    "Skills": [
+    "Customer service",
+    "Negotiation skills",
+    "Team work",
+    "Presentation skills"
+  ]
+  },
+  {
+    "id":  10,
+    "Job title": "Sales Manager",
+    "Gender": "male",
+    "Age": 30,
+    "Location": "Russia, Moscow",
+    "Desired wage": 90000,
+    "Area": "Retail",
+    "Total work experience (years)": 8,
+    "Work experience": [
+      {
+        "Company name": "Philips",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2018,
+          2020
+        ],
+        "Job position": "Key account manager",
+        "Responsibilities": [
+          "Understanding customer needs and drive sales efforts",
+          "Maximizing order intake, sales and price realization at the assigned partners",
+          "Creating projects pipeline with partners",
+          "Managing and implementing projects with partners"
+        ]
+      },
+      {
+        "Company name": "Philips",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2016,
+          2018
+        ],
+        "Job position": "Regional Sales Manager",
+        "Responsibilities": [
+          "carry out the promotion of goods in the territory of responsibility",
+          "increase sales of goods on the Territory of responsibility",
+          "Development of partnerships"
+        ]
+      },
+      {
+        "Company name": "Philips",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2012,
+          2016
+        ],
+        "Job position": "Order Desk Specialist",
+        "Responsibilities": [
+          "Media-Markt customer supporting of logistics process",
+          "promotional support of new consulting services",
+          "Organize customer returns when applicable",
+          "Monitor customer service level"
+        ]
+      }
+    ],
+    "Education": [
+      {
+        "University": "Moscow Institute of World Economy and International Relations",
+        "Education city": "Moscow",
+        "Major": "Economic, Finance and Credit",
+        "Study period": [
+          2008,
+          2011
+        ],
+        "Degree": "Bachelor"
+      }
+    ],
+    "Language proficiency": {
+      "Russian": "Native",
+      "English": "Advanced"
+    },
+    "Additional Courses": "Not stated",
+    "Skills": [
+      "Customer service",
+      "Negotiation skills",
+      "SAP",
+      "Analytical skills",
+      "Team work",
+      "Leadership"
+    ]
+  },
+  {
+    "id":  11,
+    "Job title": "Sales Manager",
+    "Gender": "male",
+    "Age": 37,
+    "Location": "Russia, Saint Petersburg",
+    "Desired wage": 85000,
+    "Area": "Electronics",
+    "Total work experience (years)": 3,
+    "Work experience": [
+      {
+        "Company name": "Siemens",
+        "Company location": "Russia, Saint Petersburg",
+        "Period of work": [
+          2017,
+          2020
+        ],
+        "Job position": "Sales manager",
+        "Responsibilities": [
+          "Organization of the sales process of Siemens Power Equipment equipment",
+          "Develops good relationship with customers",
+          "Initiates, facilitates and contributes negotiations with customers",
+          "Planning & coordinating of orders placing"
+        ]
+      }
+    ],
+    "Education": [
+      {
+        "University": "Belarusian National Technical University",
+        "Education city": "Minsk",
+        "Major": "Power stations and substations",
+        "Study period": [
+          2005,
+          2009
+        ],
+        "Degree": "Bachelor"
+      }
+    ],
+    "Language proficiency": {
+      "Russian": "Native",
+      "English": "Proficiency",
+      "Belarusian": "Proficiency"
+    },
+    "Additional Courses": "Not stated",
+    "Skills": [
+      "Project management",
+      "Negotiation skills",
+      "presentation skills",
+      "Analytical skills",
+      "Organisational skills",
+      "SAP"
+    ]
+  },
+  {
+  "id": 12,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 36,
+  "Location": "Russia, Moscow",
+  "Desired wage": 80000,
+  "Area": "IT",
+  "Total work experience (years)": 8,
+  "Work experience": [
+    {
+      "Company name": "Omnicomm",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2018,
+        2020
+      ],
+      "Job position": "Account manager",
+      "Responsibilities": [
+        "Sales and business development in African region",
+        "Active search and identification of new business partners",
+        "Building and maintaining good relationship with partners",
+        "Preparation of commercial proposals"
+      ]
+    },
+    {
+      "Company name": "CTI",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2011,
+        2018
+      ],
+      "Job position": "Account manager",
+      "Responsibilities": [
+        "Preparing and managing budgets in order to achieve set targets and objectives",
+        "Developing status reports and resourse plans",
+        "Communication with the client regarding operational questions",
+        "Providing clients with timely updates and status",
+        "Conducting presale activities and monitoring work progress"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Plekhanov Russian University of Economics",
+      "Education city": "Moscow",
+      "Major": "Economic, Finance and Credit",
+      "Study period": [
+        2009,
+        2013
+      ],
+      "Degree": "Bachelor"
+    },
+    {
+      "University": "National Research Tomsk State University",
+      "Education city": "Tomsk",
+      "Major": "Historical faculty, Office administration",
+      "Study period": [
+        2006,
+        2009
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Proficiency",
+    "Spanish": "Intermediate"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "Employment and cultural training certificate",
+      "Educational institution": "English Bay College, Vancouver",
+      "Educational per": 2006
+    }
+  ],
+  "Skills": [
+    "Communication skills",
+    "Negotiation skills",
+    "Time management",
+    "Team work",
+    "Leadership"
+  ]
+  },
+  {
+  "id": 13,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 26,
+  "Location": "Russia, Moscow",
+  "Desired wage": 90000,
+  "Area": "Retail",
+  "Total work experience (years)": 4,
+  "Work experience": [
+    {
+      "Company name": "Royal Canin",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2019,
+        2020
+      ],
+      "Job position": "customer service specialist",
+      "Responsibilities": [
+        "Implementation of the plan for sales in the entrusted territory",
+        "Search and connect new active clients",
+        "Organization and implementation of events aimed at increasing customer loyalty to the brand"
+      ]
+    },
+    {
+      "Company name": "Key Account Manager",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2016,
+        2018
+      ],
+      "Job position": "Regional Sales Manager",
+      "Responsibilities": [
+        "carry out the promotion of goods in the territory of responsibility",
+        "increase sales of goods on the Territory of responsibility",
+        "Development of partnerships"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Moscow Technical University of Communications and Informatics",
+      "Education city": "Moscow",
+      "Major": "Information Computer Engineering",
+      "Study period": [
+        2019,
+        2021
+      ],
+      "Degree": "Undergraduate"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Beginner"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Active sales",
+    "Negotiation skills",
+    "SAP"
+  ]
+  },
+  {
+  "id": 14,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 25,
+  "Location": "Russia, Moscow",
+  "Desired wage": 60000,
+  "Area": "IT",
+  "Total work experience (years)": 2,
+  "Work experience": [
+    {
+      "Company name": "Netwell",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2019,
+        2020
+      ],
+      "Job position": "Marketing manager",
+      "Responsibilities": [
+        "Development and organization of information and advertising materials",
+        "Interaction with vendor companies and partners as part of product promotion",
+        "Planning, preparation and organization of events"
+      ]
+    },
+    {
+      "Company name": "ABB Russia",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2018,
+        2019
+      ],
+      "Job position": "sales support intern",
+      "Responsibilities": [
+        "Create and update requests for the purchase of equipment",
+        "Interaction with the Supply Department and the Master Data Management Department",
+        "Assistance to the department in carrying out activities to improve the process",
+        "Agreement of proposed configuration with partner, change"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "National Research University",
+      "Education city": "Moscow",
+      "Major": "Electrical engineering",
+      "Study period": [
+        2013,
+        2017
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Upper Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Customer service",
+    "Negotiation skills",
+    "Sales",
+    "C1",
+    "Active sales"
+  ]
+  },
+  {
+  "id": 15,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 30,
+  "Location": "Russia, Moscow",
+  "Desired wage": 90000,
+  "Area": "Health care",
+  "Total work experience (years)": 4,
+  "Work experience": [
+    {
+      "Company name": "Ruskhimset",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2019,
+        2019
+      ],
+      "Job position": "Head of sales department construction chemicals at Ruskhimset",
+      "Responsibilities": [
+        "Restructuring of the company’s sales department",
+        "Exclusive sales agreements have been concluded with leading manufacturers in their industry",
+        "build a new sales team"
+      ]
+    },
+    {
+      "Company name": "Nortex",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2016,
+        2019
+      ],
+      "Job position": "Sales Manager",
+      "Responsibilities": [
+        "Sale, purchase, budgeting in the direction of Construction chemistry",
+        "promote new producer of Iron oxide pigment Cathay on the market",
+        "Development and promotion of the direction of Functional additives in the Dry mix"
+      ]
+    },
+    {
+      "Company name": "Larchfield LSN",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2015,
+        2016
+      ],
+      "Job position": "Regional Sales Manager",
+      "Responsibilities": [
+        "Product manager 2 product categories, thickeners",
+        "Communication with suppliers",
+        "development of a development strategy for these brands in the Russian and CIS markets",
+        "Helping managers promote and sell products"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Moscow State University of Fine Chemical",
+      "Education city": "Moscow",
+      "Major": "Engineer",
+      "Study period": [
+        2008,
+        2011
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Upper-Intermediate"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "Dry mortar technology: selection of raw materials, composition design, quality issues",
+      "Educational institution": "Saint-Petersburg State University of Architecture and Civil Engineering",
+      "Educational per": 2019
+    }
+  ],
+  "Skills": [
+    "Proactive",
+    "Result-oriented",
+    "Negotiation skills",
+    "Responsible",
+    "Key account management"
+  ]
+  },
+  {
+  "id": 16,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 28,
+  "Location": "Russia, Moscow",
+  "Desired wage": 80000,
+  "Area": "Marketing",
+  "Total work experience (years)": 2,
+  "Work experience": [
+    {
+      "Company name": "MAKESPACE DEVELOPMENT",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2019,
+        2020
+      ],
+      "Job position": "Marketing and Sales Manager",
+      "Responsibilities": [
+        "Understanding customer needs and drive sales efforts",
+        "Identify market trends",
+        "creation of Customer Journey Map"
+      ]
+    },
+    {
+      "Company name": "ADMARE PROPERTY",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2018,
+        2019
+      ],
+      "Job position": "Regional Sales Manager",
+      "Responsibilities": [
+        "Market research",
+        "client segmentation",
+        "Products presentations"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "MGIMO University",
+      "Education city": "Moscow",
+      "Major": "Marketing",
+      "Study period": [
+        2010,
+        2014
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Advanced",
+    "French": "Intermediate",
+    "Spanish": "Beginner"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Customer service",
+    "Negotiation skills",
+    "Sales skills"
+  ]
+  },
+  {
+  "id": 17,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 37,
+  "Location": "Russia, Moscow",
+  "Desired wage": 100000,
+  "Area": "Electronics",
+  "Total work experience (years)": 4,
+  "Work experience": [
+    {
+      "Company name": "Coral Travel (authorized agency)",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2019,
+        2020
+      ],
+      "Job position": "Sales Manager",
+      "Responsibilities": [
+        "Active B2C sales, concierge travel services",
+        "Direct work with VIP customers",
+        "Providing exceptional customer service",
+        "Booking of travel services: packages, hotels, airline tickets, travel insurance, visa support"
+      ]
+    },
+    {
+      "Company name": "Sunmar (authorized agency)",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2017,
+        2019
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "Overall management of the company operations and finance, sales statistics analysis",
+        "Direct work with VIP clients with requirements of an individual approach. Ensuring sales plans",
+        "Development and support of B2C sales, group and individual tours, business trips, visa support",
+        "Implementation of full customer support until return. Deal with conflict situations"
+      ]
+    },
+    {
+      "Company name": "Sanyo Electric",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2007,
+        2008
+      ],
+      "Job position": "Air conditioning equipment sales manager",
+      "Responsibilities": [
+        "Projects management",
+        "Search and development of key customers ",
+        "Logistics support",
+        "Organization of after-sales service"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "The Moscow State University of Design and Technology",
+      "Education city": "Moscow",
+      "Major": "Design",
+      "Study period": [
+        2017,
+        2019
+      ],
+      "Degree": "Master"
+    },
+    {
+      "University": "Moscow Technical University",
+      "Education city": "Moscow",
+      "Major": "Computer Systems and Networks",
+      "Study period": [
+        2002,
+        2006
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Upper-Intermediate"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "English language courses",
+      "Educational institution": "Kaplan English school, Washington DC",
+      "Educational per": 2008
+    }
+  ],
+  "Skills": [
+    "Direct sales",
+    "Management"
+  ]
+  },
+  {
+  "id":  18,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 40,
+  "Location": "Russia, Moscow",
+  "Desired wage": 80000,
+  "Area": "Electronics",
+  "Total work experience (years)": 5,
+  "Work experience": [
+    {
+      "Company name": "The Сenter for Strategic Development in Civil Aviation (AVIACENTER)",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2019,
+        2020
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "Selling of delegate participation in international conferences, forums",
+        "Participation in the preparation and holding of the events",
+        "Working directly at the events"
+      ]
+    },
+    {
+      "Company name": "ACS (Air Charter Service)",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2010,
+        2012
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "Work with existing customers",
+        "Reply on customer's requests for electromechanical and electronic products",
+        "Search for new clients"
+      ]
+    },
+    {
+      "Company name": "LLC Euro Profil'",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2007,
+        2008
+      ],
+      "Job position": "Key account manager",
+      "Responsibilities": [
+        "Manufacturer-resellers (distributors) management, support and control",
+        "sales & marketing plan provision",
+        "visiting branches of distributor",
+        "preparation and organization of business trainings",
+        "product presentations"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "The Moscow Aviation Institute(MAI)",
+      "Education city": "Moscow",
+      "Major": "Financial management",
+      "Study period": [
+        2012,
+        2014
+      ],
+      "Degree": "Master"
+    },
+    {
+      "University": "The Moscow Aviation Institute(MAI)",
+      "Education city": "Moscow",
+      "Major": "Engineer",
+      "Study period": [
+        2003,
+        2008
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Advanced"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Customer service",
+    "Negotiation skills",
+    "CRM",
+    "Analytical skills",
+    "Sale skills"
+  ]
+  },
+  {
+  "id": 19,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 31,
+  "Location": "Russia, Moscow",
+  "Desired wage": 75000,
+  "Area": "Retail",
+  "Total work experience (years)": 8,
+  "Work experience": [
+    {
+      "Company name": "StudyLab",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2014,
+        2020
+      ],
+      "Job position": "Senior sales manager",
+      "Responsibilities": [
+        "department sales planning",
+        "management: goal setting and its realization",
+        "sales plan realization",
+        "price setting",
+        "marketing campaign planning for product/service promotion"
+      ]
+    },
+    {
+      "Company name": "StudyLab",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2012,
+        2014
+      ],
+      "Job position": "Educational programs manager",
+      "Responsibilities": [
+        "sales target achievement",
+        "client supervision",
+        "document translation",
+        "updating website content"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "North-Caucasian Federal University",
+      "Education city": "Stavropol",
+      "Major": "Translation and Translation Studies",
+      "Study period": [
+        2007,
+        2011
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Advanced",
+    "German": "Intermediate",
+    "French": "Basic",
+    "Portuguese": "Basic"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Sales skills",
+    "Negotiation skills",
+    "CRM",
+    "Analytical skills",
+    "C1",
+    "Client management"
+  ]
+  },
+  {
+  "id": 20,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 34,
+  "Location": "Russia, Moscow",
+  "Desired wage": 100000,
+  "Area": "Consulting",
+  "Total work experience (years)": 7,
+  "Work experience": [
+    {
+      "Company name": "Reed Exhibitions",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2015,
+        2020
+      ],
+      "Job position": "International sales manager",
+      "Responsibilities": [
+        "Visited domestic and foreign trade shows",
+        "Arranged meetings with international companies and trade associations",
+        "Have been selling exhibition spaces, shell schemes, advertising and sponsorship services to clients",
+        "Have been making cold and warm phone calls to clients according to KPI system"
+      ]
+    },
+    {
+      "Company name": "Daewoo International Corporation",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2013,
+        2015
+      ],
+      "Job position": "Sales manager B2B",
+      "Responsibilities": [
+        "Actively participated in tenders of Russian automobile manufacturers",
+        "Represented interests of Korean partners at their exhibition booths",
+        "Interpreted from English into Russian and vice versa during the business meetings",
+        "Compiled and reviewed profiles of prospects"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Moscow Institute of World Economy and International Relations",
+      "Education city": "Moscow",
+      "Major": "Economic, Finance and Credit",
+      "Study period": [
+        2008,
+        2011
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Advanced"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Customer relations",
+    "Negotiation skills",
+    "Incoterms",
+    "Analytical skills",
+    "Cold phone calls",
+    "Sales skills"
+  ]
+  },
+  {
+  "id": 21,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 37,
+  "Location": "Russia, Moscow",
+  "Desired wage": 110000,
+  "Area": "Auto",
+  "Total work experience (years)": 9,
+  "Work experience": [
+    {
+      "Company name": "Ford Sollers Holding LLC",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2011,
+        2020
+      ],
+      "Job position": "Sales zone manager",
+      "Responsibilities": [
+        "Region sales analysis – sales share, product share, order bank, stock mix",
+        "Dealer financial discipline control – financing of new vehicles, debt payments",
+        "New vehicles order control – model mix, derivatives, special vehicle operations",
+        "Promotion of sales marketing programs and activities"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Military and Technical University under the Federal Agency for Special Construction",
+      "Education city": "Balashikha",
+      "Major": "Engineer",
+      "Study period": [
+        1999,
+        2003
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Upper-Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Customer service",
+    "Negotiation skills",
+    "Sales skills",
+    "Analytical skills",
+    "Team work",
+    "Presentation skills"
+  ]
+  },
+  {
+  "id": 22,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 42,
+  "Location": "Russia, Moscow",
+  "Desired wage": 150000,
+  "Area": "Electronics",
+  "Total work experience (years)": 16,
+  "Work experience": [
+    {
+      "Company name": "Scarlett",
+      "Company location": "Belarus, Minsk",
+      "Period of work": [
+        2008,
+        2020
+      ],
+      "Job position": "Regional manager",
+      "Responsibilities": [
+        "Implementation of sales strategies in the Republic of Belarus",
+        "Formation and implementation of commercial policies in sales channels",
+        "Fulfillment of company plans for sales and operating profit",
+        "Preparation and conduct of promotional activities",
+        "Interaction with subordinates - setting tasks, monitoring activities, improving work efficiency"
+      ]
+    },
+    {
+      "Company name": "Heineken",
+      "Company location": "Belarus, Minsk",
+      "Period of work": [
+        2006,
+        2008
+      ],
+      "Job position": "Regional Sales Manager",
+      "Responsibilities": [
+        "Sales development in Belarus, building a distribution system",
+        "Enforcing sales plans",
+        "8 people subordinate",
+        "Development and implementation of commercial policies for distributors"
+      ]
+    },
+    {
+      "Company name": "Melsons Group Companiess",
+      "Company location": "Belarus, Minsk",
+      "Period of work": [
+        2004,
+        2006
+      ],
+      "Job position": "Regional sales manager",
+      "Responsibilities": [
+        "Ensuring the fulfillment of goals in terms of sales, distribution",
+        "Expansion of the company's assortment in the portfolio of distributors",
+        "Carrying out promotional events",
+        "Work with key networks"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Belarussian State University",
+      "Education city": "Minsk",
+      "Major": "Lawer Politologist",
+      "Study period": [
+        2000,
+        2004
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Upper-Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Customer service",
+    "Negotiation skills",
+    "Key account management",
+    "Analytical skills",
+    "Communication skills",
+    "Product promotion"
+  ]
+  },
+  {
+    "id":  23,
+    "Job title": "Sales Manager",
+    "Gender": "male",
+    "Age": 42,
+    "Location": "Russia, Moscow",
+    "Desired wage": 80000,
+    "Area": "IT",
+    "Total work experience (years)": 5,
+    "Work experience": [
+      {
+        "Company name": "Isber",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2015,
+          2016
+        ],
+        "Job position": "Senior sales manager",
+        "Responsibilities": [
+          "Developed the direction of anti theft equipment and sales of companies services"
+        ]
+      },
+      {
+        "Company name": "Sensis",
+        "Company location": "Russia, Moscow",
+        "Period of work": [
+          2010,
+          2014
+        ],
+        "Job position": "Sales & Marketing Regional Manager",
+        "Responsibilities": [
+          "Sale of the OEM equipment for terminals of self-service",
+          "Search of new products and activities for the company"
+          ]
+      }
+    ],
+    "Education": [
+      {
+        "University": "Moscow Institute of International Business",
+        "Education city": "Moscow",
+        "Major": "Foreign economic activity",
+        "Study period": [
+          2001,
+          2004
+        ],
+        "Degree": "Bachelor"
+      }
+    ],
+    "Language proficiency": {
+      "Russian": "Native",
+      "English": "Proficiency",
+      "Greek": "Advanced",
+      "Portuguese": "Advanced"
+    },
+    "Additional Courses": [
+      {
+        "Course name": "Guiding of commercial negotiations, technology of sales",
+        "Educational institution": "Not stated",
+        "Education per": 2008
+      }
+    ],
+    "Skills": [
+      "Sales Forecasting",
+      "Sales Management",
+      "Sales Planning",
+      "Sales Skills"
+    ]
+  },
+  {
+    "id":  24,
+    "Job title": "Sales Manager",
+    "Gender": "male",
+    "Age": 34,
+    "Location": "Russia, Moscow",
+    "Desired wage": 110000,
+    "Area": "Retail",
+    "Total work experience (years)": 14,
+    "Work experience": [
+      {
+        "Company name": "FoodMaster - Lactalis group",
+        "Company location": "Kazakhstan",
+        "Period of work": [
+          2018,
+          2020
+        ],
+        "Job position": "Sales representatives supervisor",
+        "Responsibilities": [
+          "maintaining effective relations between the company and distributors / key customers",
+          "management of sales representatives",
+          "market monitoring"
+        ]
+      },
+      {
+        "Company name": "Japan Tobacco International (JTI) , ТОО",
+        "Company location": "Kazakhstan",
+        "Period of work": [
+          2006,
+          2018
+        ],
+        "Job position": "Sales support specialist",
+        "Responsibilities": [
+          "Formation and distribution of the budget, negotiating with key customers",
+          "Development and management of projects",
+          "Staff training and presentations"
+          ]
+      }
+    ],
+    "Education": [
+      {
+        "University": "City Business School",
+        "Education city": "Moscow",
+        "Major": "Business Administration",
+        "Study period": [
+          2018,
+          2020
+        ],
+        "Degree": "Master"
+      },
+      {
+        "University": "Chelyabinsk State University",
+        "Education city": "Chelyabinsk",
+        "Major": "Finance and Credit",
+        "Study period": [
+          2007,
+          2011
+        ],
+        "Degree": "Bachelor"
+      }
+    ],
+    "Language proficiency": {
+      "Russian": "Native",
+      "English": "Intermediate"
+    },
+    "Additional Courses": [
+      {
+        "Course name": "Communication and influence",
+        "Educational institution": "Team training Moscow",
+        "Education per": 2015
+      }
+    ],
+    "Skills": [
+      "Communication skills",
+      "Analytical skills",
+      "Negotiation skills",
+      "Presentation skills",
+      "Leadership",
+      "Sales Skills"
+    ]
+  },
+  {
+    "id":  25,
+    "Job title": "Sales Manager",
+    "Gender": "male",
+    "Age": 27,
+    "Location": "Russia, Moscow",
+    "Desired wage": 100000,
+    "Area": "Auto",
+    "Total work experience (years)": 1,
+    "Work experience": [
+      {
+        "Company name": "Inchcape",
+        "Company location": "Kazakhstan",
+        "Period of work": [
+          2019,
+          2020
+        ],
+        "Job position": "Jaguar Land Rover Service Advisor",
+        "Responsibilities": [
+          "Responded to all customer inquiries thoroughly and professionally",
+          "Used the official repair manual and official sources of the manufacturer",
+          "Resolved conflicts and negotiated agreements between parties"
+        ]
+      }
+      ],
+    "Education": [
+      {
+        "University": "Moscow Automobile and Road Institute",
+        "Education city": "Moscow",
+        "Major": "Engineer",
+        "Study period": [
+          2014,
+          2018
+        ],
+        "Degree": "Bachelor"
+      }
+    ],
+    "Language proficiency": {
+      "Russian": "Native",
+      "English": "Upper-Intermediate"
+    },
+    "Additional Courses": [
+      {
+        "Course name": "Communication and influence",
+        "Educational institution": "Team training Moscow",
+        "Education per": 2015
+      }
+    ],
+    "Skills": [
+      "Customers service",
+      "Analytical skills",
+      "Negotiation skills",
+      "Problem solving",
+      "Sales Skills"
+    ]
+  },
+  {
+  "id":  26,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 35,
+  "Location": "Russia, Moscow",
+  "Desired wage": 120000,
+  "Area": "Electronics",
+  "Total work experience (years)": 5,
+  "Work experience": [
+    {
+      "Company name": "LS Cable & System Co Ltd.",
+      "Company location": "Republic of Korea, Seoul",
+      "Period of work": [
+        2018,
+        2020
+      ],
+      "Job position": "Regional Sales Manager",
+      "Responsibilities": [
+        "Preparing Technical/ Commercial documents/Tender Documents",
+        "Cable/ Accessories HV/ EHV Cable, a specialist in the market development: Russia and CIS countries",
+        "Expert in B2B business development"
+      ]
+    },
+    {
+      "Company name": "Korea SM PowerTech Co., Ltd.",
+      "Company location": "Republic of Korea, Seoul",
+      "Period of work": [
+        2015,
+        2018
+      ],
+      "Job position": "RMS / Sales Manager",
+      "Responsibilities": [
+        " Responsible for the management of the data related to the databases and tools supporting the tender process",
+        "Participate in project team for Strategic deals",
+        "Advise and challenge the sales team in dealing with each tender"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Kyung Hee University.",
+      "Education city": "Republic of Korea, Seoul",
+      "Major": "Diplomacy and Politics",
+      "Study period": [
+        2014,
+        2016
+      ],
+      "Degree": "Master"
+    },
+    {
+      "University": "Kyung Hee University",
+      "Education city": "Republic of Korea, Seoul",
+      "Major": "Sports Foreign Policy",
+      "Study period": [
+        2010,
+        2014
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Proficiency",
+    "Korean": "Proficiency",
+    "Tajik": "Proficiency",
+    "Uzbek": "Proficiency"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "Marketing Management",
+      "Educational institution": "Kyung Hee University",
+      "Education per": 2010
+    },
+        {
+      "Course name": "TOEIC",
+      "Educational institution": "TOEIC, English Proficient Test",
+      "Education per": 2016
+    }
+  ],
+  "Skills": [
+    "Negotiation skills",
+    "Leadership",
+    "Presentation skills",
+    "Analytical skills"
+  ]
+  },
+  {
+  "id":  27,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 32,
+  "Location": "Russia, Moscow",
+  "Desired wage": 90000,
+  "Area": "Marketing",
+  "Total work experience (years)": 5,
+  "Work experience": [
+    {
+      "Company name": "The Moscow Times / Yoga Journal",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2019,
+        2020
+      ],
+      "Job position": "Account manager",
+      "Responsibilities": [
+        "Managing of Special Projects",
+        "Participation in the event’s organization Festival of 2 000 - 3 000 of People",
+        "Working in a team, writing technical specification for performers",
+        "working with related departments in the company",
+        "Full support of the company's clients"
+      ]
+    },
+    {
+      "Company name": "Lamoda",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2016,
+        2018
+      ],
+      "Job position": "Advertising manager",
+      "Responsibilities": [
+        "Creating and maintaining targeted (text-graphic / graphic) advertising campaigns for sites",
+        "Working with the segments of user’s base",
+        "Creating and maintaining targeted advertising campaigns aimed to the remarketing and retargeting"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Kursk State Agricultural Academy",
+      "Education city": "Kursk",
+      "Major": "Economy and Management",
+      "Study period": [
+        2010,
+        2014
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 28,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 31,
+  "Location": "Russia, Moscow",
+  "Desired wage": 140000,
+  "Area": "IT",
+  "Total work experience (years)": 4,
+  "Work experience": [
+    {
+      "Company name": "Adwark",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2018,
+        2019
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "Market analysis",
+        "Client service",
+        "Product promotion strategy"
+      ]
+    },
+    {
+      "Company name": "WildJam",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2016,
+        2018
+      ],
+      "Job position": "Business development manager",
+      "Responsibilities": [
+        "Active sales",
+        "Search of new products and activities for the company"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Kuban State Academy of Physical Culture",
+      "Education city": "Krasnodar",
+      "Major": "Economy and Management",
+      "Study period": [
+        2011,
+        2015
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Beginner"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 29,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 43,
+  "Location": "Russia, Moscow",
+  "Desired wage": 160000,
+  "Area": "Electronics",
+  "Total work experience (years)": 7,
+  "Work experience": [
+    {
+      "Company name": "CASIO LLC",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2013,
+        2020
+      ],
+      "Job position": "Trade and Marketing Manager PVP Division",
+      "Responsibilities": [
+        "strategy of sales and marketing activity creation",
+        "Total sales control",
+        "product management"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Rocket Forces Institute",
+      "Education city": "Moscow",
+      "Major": "Telecommunications and Controls in complicated systems",
+      "Study period": [
+        1999,
+        2003
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Pre-Intermediate"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "CASIO Annual Challenge 2012",
+      "Educational institution": "CASIO, Employee of Year - 2012",
+      "Education per": 2012
+    }
+  ],
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 30,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 22,
+  "Location": "Russia, Moscow",
+  "Desired wage": 50000,
+  "Area": "Marketing",
+  "Total work experience (years)": 0,
+  "Work experience": [
+  ],
+  "Education": [
+    {
+      "University": "Moscow State Pedagogical University",
+      "Education city": "Moscow",
+      "Major": "Psychology and pedagogy",
+      "Study period": [
+        2016,
+        2020
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Active",
+    "Responsible",
+    "Presentation skills",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 31,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 42,
+  "Location": "Russia, Moscow",
+  "Desired wage": 70000,
+  "Area": "Raw materials",
+  "Total work experience (years)": 3,
+  "Work experience": [
+    {
+      "Company name": "Allianz",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2018,
+        2019
+      ],
+      "Job position": "Corporate Sales Manager",
+      "Responsibilities": [
+        "Build and promote strong, long-lasting customer relationships",
+        "development of personal target"
+      ]
+    },
+    {
+      "Company name": "International Sales and Business Development Manager",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2017,
+        2018
+      ],
+      "Job position": "Sales & Marketing Regional Manager",
+      "Responsibilities": [
+        "stablishing the process of negotiation and building mutually beneficial long-term business relationships",
+        "Devising and Implementing a Sales and business development strategy",
+        "attending business meetings"
+        ]
+    },
+    {
+      "Company name": "Parsa Company Group",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2015,
+        2016
+      ],
+      "Job position": "Sales & Business Development Manager",
+      "Responsibilities": [
+        "Build and promote strong, long-lasting customer relationships",
+        "development of personal target"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Oxford Brookes University",
+      "Education city": "United Kingdom",
+      "Major": "International Real Estate",
+      "Study period": [
+        2010,
+        2012
+      ],
+      "Degree": "Master"
+    },
+    {
+      "University": "Northumbria Business School",
+      "Education city": "United Kingdom",
+      "Major": "Business Management",
+      "Study period": [
+        2005,
+        2009
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Proficiency",
+    "German": "Basic",
+    "Estonian": "Basic"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "Sales Management",
+      "Educational institution": "Michael Bang's School of Sales",
+      "Education per": 2009
+    }
+  ],
+  "Skills": [
+    "Negotiation skills",
+    "Sales Management",
+    "B2B",
+    "Key account management",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 32,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 43,
+  "Location": "Russia, Moscow",
+  "Desired wage": 180000,
+  "Area": "IT",
+  "Total work experience (years)": 11,
+  "Work experience": [
+    {
+      "Company name": "Orange Business Services",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2013,
+        2020
+      ],
+      "Job position": "Account Manager",
+      "Responsibilities": [
+        "Build and promote strong, long-lasting customer relationships"
+      ]
+    },
+    {
+      "Company name": "Mobile Marketing company",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2009,
+        2013
+      ],
+      "Job position": "Account manager",
+      "Responsibilities": [
+        "Build and promote strong, long-lasting customer relationships",
+        "Search of new products and activities for the company"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "The State Academy of Plekhanov",
+      "Education city": "Moscow",
+      "Major": "Financial Management",
+      "Study period": [
+        2004,
+        2008
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Proficiency",
+    "Hebrew": "Advanced",
+    "German": "Basic",
+    "French": "Basic"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "Account management telecommunication services",
+      "Educational institution": "Velti SA",
+      "Education per": 2012
+    },
+    {
+      "Course name": "Account/project management course, coupa training",
+      "Educational institution": "Velti SA",
+      "Education per": 2012
+    }
+  ],
+  "Skills": [
+    "Communication skills",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 33,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 23,
+  "Location": "Russia, Moscow",
+  "Desired wage": 65000,
+  "Area": "IT",
+  "Total work experience (years)": 2,
+  "Work experience": [
+    {
+      "Company name": "TTK",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2018,
+        2020
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "Active sales",
+        "Cold calls",
+        "CRM",
+        "Develop ling-term relations"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Ural State University",
+      "Education city": "Moscow",
+      "Major": "Economy and Management",
+      "Study period": [
+        2018,
+        2022
+      ],
+      "Degree": "Unfinished higher education"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Intermediate",
+    "Italian": "Beginner"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "Technology of sales",
+      "Educational institution": "Vertex",
+      "Education per": 2019
+    }
+  ],
+  "Skills": [
+    "Cold calls",
+    "Sales Management",
+    "Customer relations",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 34,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 27,
+  "Location": "Russia, Moscow",
+  "Desired wage": 100000,
+  "Area": "Marketing",
+  "Total work experience (years)": 6,
+  "Work experience": [
+    {
+      "Company name": "Madtec",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2017,
+        2020
+      ],
+      "Job position": "Senior sales manager",
+      "Responsibilities": [
+        "KPI",
+        "Customer communication",
+        "Development of new projects"
+      ]
+    },
+    {
+      "Company name": "ITM",
+      "Company location": "Junior Account Manager",
+      "Period of work": [
+        2014,
+        2017
+      ],
+      "Job position": "Sales & Marketing Regional Manager",
+      "Responsibilities": [
+        "KPI",
+        "Customer communication",
+        "Development of new projects"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "The State Academy of Plekhanov",
+      "Education city": "Moscow",
+      "Major": "Marketing",
+      "Study period": [
+        2012,
+        2016
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Upper-Intermediate",
+    "German": "Beginner"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "Guiding of commercial negotiations, technology of sales",
+      "Educational institution": "Not stated",
+      "Education per": 2008
+    }
+  ],
+  "Skills": [
+    "Project management",
+    "Sales Management",
+    "Presentation skills",
+    "Sales Skills",
+    "Team work"
+  ]
+  },
+  {
+  "id": 35,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 44,
+  "Location": "Russia, Moscow",
+  "Desired wage": 150000,
+  "Area": "Health care",
+  "Total work experience (years)": 15,
+  "Work experience": [
+    {
+      "Company name": "Thermo Fisher Scientific",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2012,
+        2020
+      ],
+      "Job position": "Sales Manager CDD Russia",
+      "Responsibilities": [
+        "Sales Planning",
+        "Identify potential needs of customers",
+        "Negotiation / Settlement of Disputes",
+        "Finding / developing untapped market opportunities"
+      ]
+    },
+    {
+      "Company name": "XEMA Co., Ltd.",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2005,
+        2012
+      ],
+      "Job position": "Deputy director general in sales department",
+      "Responsibilities": [
+        "Implementation of CRM system",
+        "Search of new products and activities for the company",
+        "Sales management"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Lobachevsky State University",
+      "Education city": "Nizhny Novgorod",
+      "Major": "Immunology",
+      "Study period": [
+        2000,
+        2004
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 36,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 24,
+  "Location": "Russia, Moscow",
+  "Desired wage": 75000,
+  "Area": "Retail",
+  "Total work experience (years)": 1,
+  "Work experience": [
+    {
+      "Company name": "Procter&Gamble",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2018,
+        2019
+      ],
+      "Job position": "Account Manager Procter&Gamble",
+      "Responsibilities": [
+        "Total distribution",
+        "Shelf Share",
+        "Key position distribution"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Pacific State University",
+      "Education city": "Khabarovsk",
+      "Major": "Quality control",
+      "Study period": [
+        2014,
+        2018
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Beginner"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Account management",
+    "Communication skills",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 37,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 41,
+  "Location": "Russia, Moscow",
+  "Desired wage": 100000,
+  "Area": "Tourism",
+  "Total work experience (years)": 16,
+  "Work experience": [
+    {
+      "Company name": "Travelport International Services Inc. ",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2018,
+        2020
+      ],
+      "Job position": "Key Account Manager of CIS NDCs",
+      "Responsibilities": [
+        "sell tourist tours",
+        "Sales planning",
+        "Customer service"
+      ]
+    },
+    {
+      "Company name": "American Express Company ",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2004,
+        2018
+      ],
+      "Job position": "Booking agent",
+      "Responsibilities": [
+        "Sale of plane tickets",
+        "Hotels booking",
+        "Search of new customers"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Moscow Financial and Industrial Academy",
+      "Education city": "Moscow",
+      "Major": "Management",
+      "Study period": [
+        2008,
+        2014
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Advanced"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "Elite Account Management",
+      "Educational institution": "Travelport, Langley, Berkshire, United Kingdom",
+      "Education per": 2017
+    }
+  ],
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 38,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 22,
+  "Location": "Russia, Moscow",
+  "Desired wage": 50000,
+  "Area": "Retail",
+  "Total work experience (years)": 3,
+  "Work experience": [
+    {
+      "Company name": "Istera",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2017,
+        2020
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "Work in the trading floor, consulting",
+        "Drawing up a commercial proposal",
+        "work with documents"
+      ]
+    },
+    {
+      "Company name": "Sensis",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2010,
+        2014
+      ],
+      "Job position": "Sales & Marketing Regional Manager",
+      "Responsibilities": [
+        "Sale of the OEM equipment for terminals of self-service",
+        "Search of new products and activities for the company"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Moscow Humanitarian Technical Academy",
+      "Education city": "Moscow",
+      "Major": "Economics",
+      "Study period": [
+        2015,
+        2019
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Elementary",
+    "German": "Elementary"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "Guiding of commercial negotiations, technology of sales",
+      "Educational institution": "Not stated",
+      "Education per": 2008
+    }
+  ],
+  "Skills": [
+    "Active sales",
+    "Customer service",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 39,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 48,
+  "Location": "Russia, Moscow",
+  "Desired wage": 160000,
+  "Area": "Health care",
+  "Total work experience (years)": 11,
+  "Work experience": [
+    {
+      "Company name": "STORMOFF N.R.W. GmbH",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2003,
+        2014
+      ],
+      "Job position": "Manager",
+      "Responsibilities": [
+        "Sale medical equipment",
+        "rigging of medical center National medical service",
+        "search of the clients,negotiations"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Institute of virology",
+      "Education city": "Not stated",
+      "Major": "molecular biology and virology",
+      "Study period": [
+        1980,
+        1985
+      ],
+      "Degree": "PhD"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Advanced"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 40,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 23,
+  "Location": "Russia, Moscow",
+  "Desired wage": 80000,
+  "Area": "Retail",
+  "Total work experience (years)": 2,
+  "Work experience": [
+    {
+      "Company name": "Beauty instrument",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2019,
+        2020
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "Sales management"
+      ]
+    },
+    {
+      "Company name": "Sberbank",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2017,
+        2018
+      ],
+      "Job position": "Product consultant",
+      "Responsibilities": [
+        "Sale of company's products on-line",
+        "Software usage"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Moscow Financial and Industrial University",
+      "Education city": "Moscow",
+      "Major": "Management",
+      "Study period": [
+        2016,
+        2020
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Beginner"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Telemarketing",
+    "Communication skills",
+    "Customer service",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 41,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 41,
+  "Location": "Russia, Moscow",
+  "Desired wage": 120000,
+  "Area": "IT",
+  "Total work experience (years)": 16,
+  "Work experience": [
+    {
+      "Company name": "Thomson Reuters",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2016,
+        2020
+      ],
+      "Job position": "Territory Manager - Russia & CIS",
+      "Responsibilities": [
+        "Business support for software solutions",
+        "Account management and retention for existing customers, account planning",
+        "Sales Specialist for information products",
+        "Business development and new sales"
+      ]
+    },
+    {
+      "Company name": "Thomson Reuters",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2007,
+        2016
+      ],
+      "Job position": "New Business Sales Executive",
+      "Responsibilities": [
+        "Grow new business sales in Russia and CIS",
+        "Project management for complex software and solutions opportunities",
+        "Customers relations, negotiations, contracting and first level legal support",
+        "New markets analysis and development, targeting new areas for new sales"
+        ]
+    },
+    {
+      "Company name": "CQG",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2005,
+        2007
+      ],
+      "Job position": "Head of Sales of CIS and Eastern Europe",
+      "Responsibilities": [
+        "Key customers account management",
+        "Sales planning, forecasting, and reporting",
+        "Partnership networks development",
+        "New markets analysis and development, targeting new areas for new sales"
+        ]
+    },
+    {
+      "Company name": "Medialogia",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2003,
+        2005
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "prospecting and cold calling",
+        "new sales development",
+        "Partnership networks development",
+        "pipeline maintenance"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Tver State University",
+      "Education city": "Tver",
+      "Major": "Low",
+      "Study period": [
+        2000,
+        2004
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Advanced"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 42,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 36,
+  "Location": "Russia, Moscow",
+  "Desired wage": 130000,
+  "Area": "Retail",
+  "Total work experience (years)": 9,
+  "Work experience": [
+    {
+      "Company name": "'ASIA IMPORT' LLC",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2015,
+        2020
+      ],
+      "Job position": "Key account manager",
+      "Responsibilities": [
+        "Negotiations on the customers' internal pricing policies, the optimal assortment and packaging",
+        "Search for customers, negotiations, discussing conditions of supply chain, prices, contract terms"
+      ]
+    },
+    {
+      "Company name": "‘New Idea’ Investment Consulting",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2011,
+        2015
+      ],
+      "Job position": "Regional sales manager",
+      "Responsibilities": [
+        "conducting negotiations",
+        "joint business planning with Customers",
+        "Pricing",
+        "distributor relations management"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Russian State Social University",
+      "Education city": "Moscow",
+      "Major": "Linguistics",
+      "Study period": [
+        2003,
+        2007
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Proficiency",
+    "German": "Beginner"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "Gap Partnership",
+      "Educational institution": "Аsia Import",
+      "Education per": 2019
+    },
+    {
+      "Course name": "WSET Level 2 Award in Spirits (QCF)",
+      "Educational institution": "William Grant & Sons",
+      "Education per": 2013
+    }
+  ],
+  "Skills": [
+    "Sales Forecasting",
+    "Analytical skills",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 43,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 36,
+  "Location": "Russia, Moscow",
+  "Desired wage": 95000,
+  "Area": "Retail",
+  "Total work experience (years)": 10,
+  "Work experience": [
+    {
+      "Company name": "PEPSICO",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2015,
+        2020
+      ],
+      "Job position": "National sales execution manager",
+      "Responsibilities": [
+        "supervise small & large marketing events to drive awareness & distribution",
+        "engage with regional Field Sales Force to drive key national KA KPIs",
+        "exceed company sales goals",
+        "develop and execute sales and marketing plan by region"
+      ]
+    },
+    {
+      "Company name": "X5 Retail Group",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2010,
+        2015
+      ],
+      "Job position": "Key account manager",
+      "Responsibilities": [
+        "Planning of promoactions in the Customer's stores",
+        "discharge of contract commitments with the Customer",
+        "organization of service system for current key accounts",
+        "monthly and annual sales plan performance"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Ural State University of Economics",
+      "Education city": "Yekaterinburg",
+      "Major": "Management",
+      "Study period": [
+        2005,
+        2009
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Advanced"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Customer service",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 44,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 29,
+  "Location": "Russia, Moscow",
+  "Desired wage": 80000,
+  "Area": "Retail",
+  "Total work experience (years)": 5,
+  "Work experience": [
+    {
+      "Company name": "`WILD RUSSIA' LLC",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2017,
+        2020
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "searching for new clients and projects",
+        "controlling active projects and contracts ",
+        "holding negotiations with Private Label producers and retailers",
+        "selling raw material for Drinks segment in Private Label products of retailers"
+      ]
+    },
+    {
+      "Company name": "`Döhler NF & BI' LLC",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2015,
+        2017
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "searching for new clients and projects",
+        "controlling active projects and contracts ",
+        "holding negotiations with Private Label producers and retailers",
+        "selling raw material for Drinks segment in Private Label products of retailers"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Institute of Business and Design",
+      "Education city": "Moscow",
+      "Major": "Marketing",
+      "Study period": [
+        2011,
+        2015
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Communication skills",
+    "Sales Management",
+    "Negotiation skills",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 45,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 29,
+  "Location": "Russia, Moscow",
+  "Desired wage": 100000,
+  "Area": "Tourism",
+  "Total work experience (years)": 2,
+  "Work experience": [
+    {
+      "Company name": "Park Inn by Radisson Odintsovo",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2018,
+        2020
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "Search and attract new customers. Work with TOP partners."
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Russian International Academy of Tourism",
+      "Education city": "Moscow",
+      "Major": "Management in the hotel and tourist business",
+      "Study period": [
+        2014,
+        2018
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Advanced"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "CRM",
+    "Sales Management",
+    "Team work",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 46,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 26,
+  "Location": "Russia, Moscow",
+  "Desired wage": 75000,
+  "Area": "Tourism",
+  "Total work experience (years)": 2,
+  "Work experience": [
+    {
+      "Company name": "Inside Service LLC",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2018,
+        2020
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "Work with incoming calls , night audit, search and attraction of new companies"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Moscow university for the humanities",
+      "Education city": "Moscow",
+      "Major": "Tourism",
+      "Study period": [
+        2014,
+        2018
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Customer service",
+    "Sales Management",
+    "Team work",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 47,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 28,
+  "Location": "Russia, Moscow",
+  "Desired wage": 75000,
+  "Area": "Tourism",
+  "Total work experience (years)": 3,
+  "Work experience": [
+    {
+      "Company name": "Foresta Festival Park Hotel",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2017,
+        2020
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "Search and attraction of new companies, organization of banquets, weddings, team building, conferences"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Institute of International Business Education",
+      "Education city": "Moscow",
+      "Major": "Management",
+      "Study period": [
+        2014,
+        2018
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Upper-Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Customer service",
+    "Sales Management",
+    "Team work",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 48,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 23,
+  "Location": "Russia, Moscow",
+  "Desired wage": 65000,
+  "Area": "Tourism",
+  "Total work experience (years)": 1,
+  "Work experience": [
+    {
+      "Company name": "IBC Corporate Travel",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2019,
+        2020
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "Search and attraction of new customers, sale of online booking system 'Rocket'"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Moscow International Higher Business School",
+      "Education city": "Moscow",
+      "Major": "Management",
+      "Study period": [
+        2017,
+        2021
+      ],
+      "Degree": "Unfinished higher education"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Beginner"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Customer service",
+    "Sales Management",
+    "Team work",
+    "Flexibility"
+  ]
+  },
+  {
+  "id": 49,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 24,
+  "Location": "Russia, Moscow",
+  "Desired wage": 60000,
+  "Area": "Tourism",
+  "Total work experience (years)": 1,
+  "Work experience": [
+    {
+      "Company name": "INTURAERO",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2019,
+        2020
+      ],
+      "Job position": "Account Manager",
+      "Responsibilities": [
+        "search and attraction of new clients, work with existing companies"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Moscow International Higher Business School",
+      "Education city": "Moscow",
+      "Major": "Management",
+      "Study period": [
+        2017,
+        2021
+      ],
+      "Degree": "Unfinished higher education"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Beginner"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Customer service",
+    "Sales Management",
+    "Team work",
+    "Flexibility"
+  ]
+  },
+  {
+  "id": 50,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 24,
+  "Location": "Russia, Moscow",
+  "Desired wage": 70000,
+  "Area": "Tourism",
+  "Total work experience (years)": 1,
+  "Work experience": [
+    {
+      "Company name": "Best Western VEGA Hotel & Convention Center",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2019,
+        2020
+      ],
+      "Job position": "Reservations manager",
+      "Responsibilities": [
+        "Incoming calls, application processing, work in the program PMS Libra\n"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Russian International Academy of Tourism",
+      "Education city": "Moscow",
+      "Major": "Management",
+      "Study period": [
+        2017,
+        2021
+      ],
+      "Degree": "Unfinished higher education"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Customer service",
+    "Sales Management",
+    "Team work",
+    "Flexibility"
+  ]
+  },
+  {
+  "id": 51,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 29,
+  "Location": "Russia, Moscow",
+  "Desired wage": 95000,
+  "Area": "Marketing",
+  "Total work experience (years)": 4,
+  "Work experience": [
+    {
+      "Company name": "LLC Bright Print",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2016,
+        2020
+      ],
+      "Job position": "Senior sales manager",
+      "Responsibilities": [
+        "Achieved 35% average annual sales revenue growth in 2017. 46% in 2018. 38% in 2019",
+        "Develop achievable and measurable strategic sales plans that drive sales growth and profits",
+        "Build and develop strong partner relationships with key customers, agencies, and partners on the C-level"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Moscow State University of Geodesy and Cartography (MSUGC)",
+      "Education city": "Moscow",
+      "Major": "Marketing",
+      "Study period": [
+        2011,
+        2015
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Upper-Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 52,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 29,
+  "Location": "Russia, Moscow",
+  "Desired wage": 80000,
+  "Area": "Marketing",
+  "Total work experience (years)": 4,
+  "Work experience": [
+    {
+      "Company name": "LLC Awardscraft",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2016,
+        2020
+      ],
+      "Job position": "Senior sales manager",
+      "Responsibilities": [
+        "Analyzed Google Analytics and Yandex Metrika performance",
+        "Implemented tender sales",
+        "Prepared a drip marketing campaign"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Moscow Institute of Public Administration and Law",
+      "Education city": "Moscow",
+      "Major": "Management",
+      "Study period": [
+        2011,
+        2015
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 53,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 30,
+  "Location": "Russia, Moscow",
+  "Desired wage": 80000,
+  "Area": "Retail",
+  "Total work experience (years)": 5,
+  "Work experience": [
+    {
+      "Company name": "SCA Hygiene Products Russia, an Essity company",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2015,
+        2020
+      ],
+      "Job position": "Regional sales manager",
+      "Responsibilities": [
+        "Managing and motivating the team of 4 Regional Key account Managers",
+        "annual and quarter negotiations",
+        "contract conclusions"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Pforzheim Hochschule",
+      "Education city": "Germany",
+      "Major": "Management",
+      "Study period": [
+        2011,
+        2015
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Advanced",
+    "German": "Advanced"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 54,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 30,
+  "Location": "Russia, Moscow",
+  "Desired wage": 110000,
+  "Area": "Retail",
+  "Total work experience (years)": 5,
+  "Work experience": [
+    {
+      "Company name": "Pernod Ricard Rouss",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2017,
+        2020
+      ],
+      "Job position": "Key account manager",
+      "Responsibilities": [
+        "Conducting regular Category/Business review with customers",
+        "Definition and implementation of Joint Business Plans",
+        "Cross Functional work with Field Force Team about reached agreements/need actions"
+      ]
+    },
+        {
+      "Company name": "Nestle",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2015,
+        2017
+      ],
+      "Job position": "Sale representative",
+      "Responsibilities": [
+        "Active sales of the company's products",
+        "Maintaining existing customer base",
+        "Finding clients, contracts",
+        "Control of accounts receivable"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "State University of Management",
+      "Education city": "Moscow",
+      "Major": "Marketing",
+      "Study period": [
+        2011,
+        2015
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Advanced"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 55,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 31,
+  "Location": "Russia, Moscow",
+  "Desired wage": 100000,
+  "Area": "Retail",
+  "Total work experience (years)": 6,
+  "Work experience": [
+    {
+      "Company name": "Danone-Unimilk",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2016,
+        2020
+      ],
+      "Job position": "Key account executive",
+      "Responsibilities": [
+        "Managing a team of sales representatives and merchandisers",
+        "Ensuring the presence of product range",
+        "Control of assortment range on the shelf"
+      ]
+    },
+        {
+      "Company name": "Danone Russia",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2014,
+        2016
+      ],
+      "Job position": "Sales representative",
+      "Responsibilities": [
+        "Control of merchandisers",
+        "Maintaining the necessary stock in stores",
+        "Finding clients, contracts",
+        "Control of marketing activities"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "New Economic School",
+      "Education city": "Moscow",
+      "Major": "Marketing",
+      "Study period": [
+        2010,
+        2014
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Advanced",
+    "German": "Beginner"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 56,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 22,
+  "Location": "Russia, Moscow",
+  "Desired wage": 55000,
+  "Area": "Marketing",
+  "Total work experience (years)": 0,
+  "Work experience": [
+  ],
+  "Education": [
+    {
+      "University": "Moscow International Higher Business School",
+      "Education city": "Moscow",
+      "Major": "Marketing",
+      "Study period": [
+        2018,
+        2022
+      ],
+      "Degree": "Unfinished higher education"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Intermediate",
+    "Spanish": "Beginner"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Active",
+    "Responsible",
+    "Presentation skills",
+    "Analytical skills"
+  ]
+  },
+  {
+  "id": 57,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 21,
+  "Location": "Russia, Moscow",
+  "Desired wage": 50000,
+  "Area": "Tourism",
+  "Total work experience (years)": 0,
+  "Work experience": [
+  ],
+  "Education": [
+    {
+      "University": "Russian State University of Tourism and Services",
+      "Education city": "Moscow",
+      "Major": "Tourism",
+      "Study period": [
+        2018,
+        2022
+      ],
+      "Degree": "Unfinished higher education"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Upper-Intermediate",
+    "Spanish": "Intermediate",
+    "German": "Beginner"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Active",
+    "Responsible",
+    "Presentation skills",
+    "Analytical skills"
+  ]
+  },
+    {
+  "id": 58,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 20,
+  "Location": "Russia, Moscow",
+  "Desired wage": 45000,
+  "Area": "Retail",
+  "Total work experience (years)": 0,
+  "Work experience": [
+  ],
+  "Education": [
+    {
+      "University": "Moscow State University of Food Production",
+      "Education city": "Moscow",
+      "Major": "Food safety",
+      "Study period": [
+        2018,
+        2022
+      ],
+      "Degree": "Unfinished higher education"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Active",
+    "Responsible",
+    "Presentation skills",
+    "Analytical skills"
+  ]
+  },
+  {
+  "id": 59,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 25,
+  "Location": "Russia, Moscow",
+  "Desired wage": 75000,
+  "Area": "Marketing",
+  "Total work experience (years)": 2,
+  "Work experience": [
+    {
+      "Company name": "Rolf",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2018,
+        2020
+      ],
+      "Job position": "Assistant of brand manager",
+      "Responsibilities": [
+        "Assistance in the organization of public events",
+        "Counting customer traffic",
+        "Prepare presentations",
+        "Placing advertising materials on car sites"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Moscow International University",
+      "Education city": "Moscow",
+      "Major": "Foreign economic activity",
+      "Study period": [
+        2013,
+        2017
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Advanced"
+  },
+  "Additional Courses": "Not sated",
+  "Skills": [
+    "Customer service",
+    "Sales Management",
+    "Presentation skills",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 60,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 27,
+  "Location": "Russia, Moscow",
+  "Desired wage": 90000,
+  "Area": "Marketing",
+  "Total work experience (years)": 5,
+  "Work experience": [
+    {
+      "Company name": "20 Centure Fox / Disney",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2015,
+        2020
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "Direct sales",
+        "Customer service"
+      ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Novosibirsk State Technical University",
+      "Education city": "Novosibirsk",
+      "Major": "Marketing",
+      "Study period": [
+        2011,
+        2015
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Presentation skills",
+    "Sales Management",
+    "Customer service",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 61,
+  "Job title": "Sales Manager",
+  "Gender": "female",
+  "Age": 25,
+  "Location": "Russia, Moscow",
+  "Desired wage": 110000,
+  "Area": "Marketing",
+  "Total work experience (years)": 3,
+  "Work experience": [
+    {
+      "Company name": "WPP",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2018,
+        2020
+      ],
+      "Job position": "Account Manager",
+      "Responsibilities": [
+        "SMM",
+        "Day-to-day communication with clients",
+        "CRM"
+      ]
+    },
+    {
+      "Company name": "Pichesky",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2016,
+        2018
+      ],
+      "Job position": "Account Manager",
+      "Responsibilities": [
+        "Day-to-day communication with clients",
+        "Organisation and control"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Russian State Social University",
+      "Education city": "Moscow",
+      "Major": "Finance and Credit",
+      "Study period": [
+        2013,
+        2017
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Upper-Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Communication skills",
+    "Sales Management",
+    "Sales Planning",
+    "Market analysis"
+  ]
+  },
+  {
+  "id": 62,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 24,
+  "Location": "Russia, Moscow",
+  "Desired wage": 50000,
+  "Area": "Tourism",
+  "Total work experience (years)": 2,
+  "Work experience": [
+    {
+      "Company name": "Maxima Hotels",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2019,
+        2020
+      ],
+      "Job position": "Account Manager",
+      "Responsibilities": [
+        "Search of new clients",
+        "Sales plan",
+        "Business meetings"
+      ]
+    },
+    {
+      "Company name": "Renaissance Moscow Monarch Centre Hotel 5*",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2018,
+        2019
+      ],
+      "Job position": "Administrator",
+      "Responsibilities": [
+        "Client service",
+        "reception desk service"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Modern University for the Humanities",
+      "Education city": "Moscow",
+      "Major": "Human resource management",
+      "Study period": [
+        2018,
+        2021
+      ],
+      "Degree": "Unfinished higher education"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Proficiency",
+    "Spanish": "Beginner"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "General English - Advanced level",
+      "Educational institution": "Start2talk",
+      "Education per": 2020
+    },
+    {
+      "Course name": "Business English",
+      "Educational institution": "Start2talk",
+      "Education per": 2020
+    }
+  ],
+  "Skills": [
+    "Communication skills",
+    "Sales Management",
+    "Customer service",
+    "Presentation skills"
+  ]
+  },
+  {
+  "id": 63,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 30,
+  "Location": "Russia, Moscow",
+  "Desired wage": 130000,
+  "Area": "Auto",
+  "Total work experience (years)": 4,
+  "Work experience": [
+    {
+      "Company name": "Inchcape Hyundai. British international car company",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2019,
+        2020
+      ],
+      "Job position": "Retail sales manager Hyundai",
+      "Responsibilities": [
+        "Organize incoming cold and hot phone calls",
+        "Represented the company at trade exhibitions, events and demonstrations",
+        "Assisting customer in selecting vehicles Hyundai and establish a positive relationship",
+        "Met the customers face to face and holding sales discussions with them"
+      ]
+    },
+    {
+      "Company name": "Major-Auto",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2016,
+        2019
+      ],
+      "Job position": "Retail sales manager Toyota",
+      "Responsibilities": [
+        "During 3 years worked in biggest car holding Major-Auto Toyota",
+        "Drive consultative, customer-centric selling behaviors",
+        "Processing of incoming calls and applications"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "National Transport University",
+      "Education city": "Kyiv",
+      "Major": "Car Business Organization",
+      "Study period": [
+        2014,
+        2016
+      ],
+      "Degree": "Master"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Upper-Intermediate"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "Hyundai smart sense system",
+      "Educational institution": "ООО Hyundai Motor CIS",
+      "Education per": 2020
+    },
+    {
+      "Course name": "Volkswagen, ISO standarts after-sales service",
+      "Educational institution": "Head office Volkswagen in Ukraine",
+      "Education per": 2014
+    }
+  ],
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 64,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 43,
+  "Location": "Russia, Moscow",
+  "Desired wage": 150000,
+  "Area": "Health care",
+  "Total work experience (years)": 12,
+  "Work experience": [
+    {
+      "Company name": "Terumo BCT",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2011,
+        2020
+      ],
+      "Job position": "Sales manager",
+      "Responsibilities": [
+        "Registration of new medical technology",
+        "Creation of PR activity in Russian Federation with local media groups",
+        "Collaboration with local governor representatives in regions of Russia",
+        "Biotechnology product sales and promotion in Russia and CIS"
+      ]
+    },
+    {
+      "Company name": "GENZYME",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2008,
+        2011
+      ],
+      "Job position": "Regional sales manager",
+      "Responsibilities": [
+        "Close collaboration with national distributor",
+        "Analyzed visits on key preparations",
+        "Used CRM systems to collect the data and prepare reports",
+        "Start up sales process of new product"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "International business school",
+      "Education city": "Moscow",
+      "Major": "Management",
+      "Study period": [
+        2008,
+        2010
+      ],
+      "Degree": "Master"
+    },
+    {
+      "University": "Moscow Medical Academy of M.I. Sechenov",
+      "Education city": "Moscow",
+      "Major": "Anesthesiology-resuscitation",
+      "Study period": [
+        1996,
+        2002
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Proficiency",
+    "German": "Advanced"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  },
+    {
+  "id": 65,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 27,
+  "Location": "Russia, Moscow",
+  "Desired wage": 89000,
+  "Area": "Health care",
+  "Total work experience (years)": 2,
+  "Work experience": [
+    {
+      "Company name": "STADA group",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2019,
+        2020
+      ],
+      "Job position": "Central Drag Distributor",
+      "Responsibilities": [
+        "Developed highly effective regional sales systems for Nizhpharm Company",
+        "Achieved maximum sales goals in a hospital sector for Moscow region",
+        "Exclusion leading rival's product Fezam from Moscow region market",
+        "Collaborated with leading monopoly distributor for Moscow hospitals"
+      ]
+    },
+    {
+      "Company name": "NYCOMED Company",
+      "Company location": "Russia, Moscow",
+      "Period of work": [
+        2018,
+        2019
+      ],
+      "Job position": "Electronic marketing specialist",
+      "Responsibilities": [
+        "Updated price list",
+        "Supported and updated Internet web-site of the company with new information on company's products",
+        "Intranet marketing",
+        "Composed and updated computer database on clients"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Moscow Medical Academy of M.I. Sechenov",
+      "Education city": "Moscow",
+      "Major": "Pharmaceutical industry",
+      "Study period": [
+        2013,
+        2017
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Intermediate"
+  },
+  "Additional Courses": "Not stated",
+  "Skills": [
+    "Customer service",
+    "Social work",
+    "Communication skills",
+    "Sales Skills"
+  ]
+  },
+  {
+  "id": 66,
+  "Job title": "Sales Manager",
+  "Gender": "male",
+  "Age": 42,
+  "Location": "Russia, Moscow",
+  "Desired wage": 160000,
+  "Area": "Health care",
+  "Total work experience (years)": 7,
+  "Work experience": [
+    {
+      "Company name": "Gemotest",
+      "Company location": "Russia, Novosibirsk",
+      "Period of work": [
+        2018,
+        2019
+      ],
+      "Job position": "Senior sales manager",
+      "Responsibilities": [
+        "To manage and optimize the company's network in Novosibirsk",
+        "regional sales manager"
+      ]
+    },
+    {
+      "Company name": "Biocodex",
+      "Company location": "Russia, Sochi",
+      "Period of work": [
+        2016,
+        2017
+      ],
+      "Job position": "Regional medical representative",
+      "Responsibilities": [
+        "Collect data on market trends, consumer behavior, product",
+        "Work with customer queries on the company’s products, customer claims, etc"
+        ]
+    },
+    {
+      "Company name": "Valenta",
+      "Company location": "Russia, Sochi",
+      "Period of work": [
+        2012,
+        2016
+      ],
+      "Job position": "Regional medical representative",
+      "Responsibilities": [
+        "Selling product of company - Rx drugs and support key account (drugstore net) of assigned territory",
+        "manage and optimize current company's network assigned territory",
+        "Work with customer queries on the company’s products, customer claims, etc"
+        ]
+    }
+  ],
+  "Education": [
+    {
+      "University": "Altai State University",
+      "Education city": "Altai",
+      "Major": "Marketing Management",
+      "Study period": [
+        2006,
+        2008
+      ],
+      "Degree": "Master"
+    },
+        {
+      "University": "Altai State Medical University",
+      "Education city": "Altai",
+      "Major": "medicine",
+      "Study period": [
+        2001,
+        2004
+      ],
+      "Degree": "Bachelor"
+    }
+  ],
+  "Language proficiency": {
+    "Russian": "Native",
+    "English": "Intermediate"
+  },
+  "Additional Courses": [
+    {
+      "Course name": "Low Intermediate",
+      "Educational institution": "Language school 'I'm polyglot'",
+      "Education per": 2008
+    }
+  ],
+  "Skills": [
+    "Sales Forecasting",
+    "Sales Management",
+    "Sales Planning",
+    "Sales Skills"
+  ]
+  }
+]
